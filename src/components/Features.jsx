@@ -9,7 +9,6 @@ const FeatureCard = ({ iconUrl, iconText }) =>  (
     <p className={styles.featureText}>{iconText}</p>
   </div>
 )
-
 const Features = () => {
   return (
     <div className={`${styles.section} ${styles.bgPrimary} banner03`}>
