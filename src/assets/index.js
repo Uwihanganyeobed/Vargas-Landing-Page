@@ -7,9 +7,12 @@ import javascript from "./javascript.png";
 import react from "./react.png";
 import scene from "./scene.png";
 import mockup from "./mockup.png";
-import nodejs from './node-js-svgrepo-com.svg'
-import ts from './typescript-svgrepo-com.svg'
-import postman from './postman-icon-svgrepo-com.svg'
+import nodejs from "./node-js-svgrepo-com.svg";
+import ts from "./typescript-svgrepo-com.svg";
+import postman from "./postman-icon-svgrepo-com.svg";
+import close from "./close.svg";
+import logo from "./logo.svg";
+import menu from "./menu.svg";
 export default {
   homeHero,
   homeCards,
@@ -23,4 +26,7 @@ export default {
   react,
   scene,
   mockup,
+  close,
+  menu,
+  logo,
 };

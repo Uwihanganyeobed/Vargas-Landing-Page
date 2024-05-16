@@ -22,7 +22,6 @@ const Features = () => {
           <FeatureCard iconUrl={assets.react} iconText="React Native" />
           <FeatureCard iconUrl={assets.javascript} iconText="JavaScript" />
           <FeatureCard iconUrl={assets.ts} iconText="Typescript" />
-          {/* <FeatureCard iconUrl={assets.postman} iconText="Postman" /> */}
           <FeatureCard iconUrl={assets.nodejs} iconText="Node Js" />
         </div>
       </div>

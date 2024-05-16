@@ -29,5 +29,7 @@ module.exports = {
       IBMPlex: ["IBM Plex Sans", "sans-serif"],
     },
   },
-  plugins: [],
+  plugins: [
+    
+  ],
 };
