@@ -1,8 +1,10 @@
 .gpt3__navbar {
+   background-color: aqua;
    display: flex;
    justify-content: space-between;
    align-items: center;
    padding: 1.5rem 1rem;
+   color: black;
 }
 .auth{
    width: 90px;
@@ -21,7 +23,6 @@
    border-radius: 11px;
    font-size: 14px;
    background: red;
-   color: white;
 }
 
 .nav-login-cart{
@@ -102,13 +103,11 @@ width: 100%;
 }
 .dropdown-item:hover{
 background-color: blue;
-color: white;
 }
 
 .gpt3__navbar-sign button,
 .gpt3__navbar-menu_container button {
    padding: 0.5rem 1rem;
-   color: #fff;
    /* background: #FF4820; */
    font-family: var(--font-family);
    font-weight: 500;
