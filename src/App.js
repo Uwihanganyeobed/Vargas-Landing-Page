@@ -6,6 +6,7 @@ const App = () => {
   return (
     <>
       <Navbar/>
+      
       <SectionWrapper
         title=" Coding enthusiast turned Full Stack Developer passionately"
         description="Buy, store, collect NFTS, exchange & earn crypto. Join 25+ million people using ProNef Marketplace."
