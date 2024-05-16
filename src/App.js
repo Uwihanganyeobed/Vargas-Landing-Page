@@ -1,8 +1,7 @@
 import { Download, Features, SectionWrapper } from "./components";
 import assets from "./assets";
 import styles from "./styles/Global";
-import Navbar from "./components/Navbar";
-
+import Navbar from "./components/navbar/Navbar";
 const App = () => {
   return (
     <>
