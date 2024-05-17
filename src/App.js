@@ -6,6 +6,7 @@ import Projects from './components/projects/Projects';
 import Donate from './components/Donate/Donate';
 import Contacts from './components/Contacts/Contacts';
 import Home from './components/Home';
+
 import Footer from './components/footer/Footer';
 const App = () => {
   return (
