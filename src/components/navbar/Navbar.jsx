@@ -13,7 +13,7 @@ const Navbar = () => {
             <div className="flex-shrink-0 pr-5">
               <Link to="/" onClick={() => setActiveLink('/')}>
                 <span className="text-black font-bold text-xl cursor-pointer">
-                  KFLS.com
+                  Vargas Tech
                 </span>
               </Link>
             </div>
