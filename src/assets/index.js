@@ -19,9 +19,11 @@ import Commercil_Web from "./Commercil-Web.png"
 import Hoobank from "./Hoobank.png"
 import react_machine from './react-drum-machine.png'
 import youtube_web from "./youtube-web.png"
+import hand_icon from "./hand-wave.png"
 
 export default {
   homeHero,
+  hand_icon,
   user,
   Admin_Panel,
   Commercil_Web,
