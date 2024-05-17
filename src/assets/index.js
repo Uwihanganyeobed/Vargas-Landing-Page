@@ -13,8 +13,20 @@ import postman from "./postman-icon-svgrepo-com.svg";
 import close from "./close.svg";
 import logo from "./logo.svg";
 import menu from "./menu.svg";
+
+import Admin_Panel from "./Admin-Panel.png"
+import Commercil_Web from "./Commercil-Web.png"
+import Hoobank from "./Hoobank.png"
+import react_machine from './react-drum-machine.png'
+import youtube_web from "./youtube-web.png"
+
 export default {
   homeHero,
+  Admin_Panel,
+  Commercil_Web,
+  Hoobank,
+  react_machine,
+  youtube_web,
   homeCards,
   feature,
   expo,
