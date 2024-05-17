@@ -1,5 +1,4 @@
 import React from 'react';
-import assets from "../../assets";
 import { MdEmail } from "react-icons/md";
 import { FaYoutube } from "react-icons/fa";
 

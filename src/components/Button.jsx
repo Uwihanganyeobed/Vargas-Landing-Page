@@ -1,5 +1,4 @@
 import React from 'react';
-import { FaHandPointRight } from "react-icons/fa6";
 import hand from '../assets/hand-point-right-svgrepo-com.svg'
 import styles from '../styles/Global';
 
