@@ -60,7 +60,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="py-4 bg-[#1c242c] flex justify-center items-center text-[#bec6d4]">
-        <label>Vargas_Tec - © 2024 All rights reserved</label>
+        <label>Vargas_Tech - © 2024 All rights reserved</label>
       </div>
     </div>
   );
