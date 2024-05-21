@@ -45,16 +45,16 @@ const Footer = () => {
           </span>
           <div className="flex flex-row gap-8">
             <a href="/" className="text-[#bec6d4]">
-              <FaSquareTwitter className="w-6 h-6" />
+              <FaSquareTwitter color="skyblue" className="w-6 h-6" />
             </a>
             <a href="/" className="text-[#bec6d4]">
-              <CiLinkedin className="w-6 h-6" />
+              <CiLinkedin color="lightblue" className="w-6 h-6" />
             </a>
             <a href="/" className="text-[#bec6d4]">
-              <FaFacebookSquare className="w-6 h-6" />
+              <FaFacebookSquare color="blue" className="w-6 h-6" />
             </a>
             <a href="/" className="text-[#bec6d4]">
-              <CiInstagram className="w-6 h-6" />
+              <CiInstagram color="pink" className="w-6 h-6" />
             </a>
           </div>
         </div>
