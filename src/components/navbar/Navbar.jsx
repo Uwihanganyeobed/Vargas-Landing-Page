@@ -45,7 +45,7 @@ const Navbar = () => {
             <li>
               <Link to="/contact" onClick={() => setActiveLink('/contact')}>
                 <span className={`text-black hover:text-gray-300 cursor-pointer ${activeLink === '/contact' ? 'border-b-2 border-green-500' : ''}`}>
-                  Contact
+                  Contacts
                 </span>
               </Link>
             </li>

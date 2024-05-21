@@ -25,11 +25,16 @@ const DonateComponent = () => {
 
         <div className="flex flex-column justify-start space-x-5 mb-10">
           <a  href='https://www.youtube.com/channel/UCZtCsouMiJC7ZK7Pl9Qk3pw'className="text-black-600 focus:outline-none">
-            <FaYoutube className="h-8 w-8 md:h-12 md:w-12" />
+            <FaYoutube
+             className="h-8 w-8 md:h-12 md:w-12"
+             color='red'
+             />
             <label className=" text-white text-sm md:text-base">YouTube Channel</label>
           </a>
           <a href='uwihanganyeobed@gmail.com'className="text-black-600 focus:outline-none">
-            <MdEmail className="h-8 w-8 md:h-12 md:w-12" />
+            <MdEmail
+            color='skyblue'
+            className="h-8 w-8 md:h-12 md:w-12" />
             <label className=" text-white text-sm md:text-base">Email</label>
           </a>
         </div>
