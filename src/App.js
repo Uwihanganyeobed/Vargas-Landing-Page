@@ -9,7 +9,6 @@ import Home from './components/Home';
 import Footer from './components/footer/Footer';
 
 const App = () => {
-  
   return (
     <BrowserRouter>
       <Navbar />
